@@ -1,0 +1,13 @@
+match_id,date,team1,team2,winner,venue
+1,2022-10-02,Pakistan,Afghanistan,Pakistan,Adelaide
+2,2022-10-03,England,South Africa,England,Melbourne
+3,2022-10-04,Afghanistan,Bangladesh,Bangladesh,Perth
+4,2022-10-05,Bangladesh,England,Bangladesh,Sydney
+5,2022-10-06,Bangladesh,England,England,Melbourne
+6,2022-10-07,England,Bangladesh,Bangladesh,Brisbane
+7,2022-10-08,Bangladesh,South Africa,Bangladesh,Adelaide
+8,2022-10-09,England,Bangladesh,England,Brisbane
+9,2022-10-10,England,Pakistan,Pakistan,Sydney
+10,2022-10-11,England,Sri Lanka,Sri Lanka,Adelaide
+11,2022-10-12,Pakistan,Sri Lanka,Pakistan,Sydney
+12,2022-10-13,Pakistan,South Africa,Pakistan,Brisbane
